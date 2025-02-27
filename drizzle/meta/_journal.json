@@ -5,22 +5,8 @@
     {
       "idx": 0,
       "version": "6",
-      "when": 1740051217310,
-      "tag": "0000_create_user_table",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "6",
-      "when": 1740051369057,
-      "tag": "0001_add_gender_column",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "6",
-      "when": 1740051823369,
-      "tag": "0002_create_category_product_table",
+      "when": 1740646880831,
+      "tag": "0000_Create_tables",
       "breakpoints": true
     }
   ]
